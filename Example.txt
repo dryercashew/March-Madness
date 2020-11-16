@@ -1,0 +1,113 @@
+There will be 4 players in total, do you want to play? There are currently 0 players. 
+ If you don't want to play press (1)1
+What difficulty do you want Easy(1), Medium(2) or Hard(3)
+3
+___Virginia___
+              |___Virginia___
+_____Penn ____|              |
+__Seton Hall__               |___Virginia___
+              |____Alabama___|              |
+____Alabama___|                             |
+____Arizona___                              |___Virginia___
+              |South Dakota S               |              |
+South Dakota S|              |              |              |
+__Ohio State__               |South Dakota S|              |
+              |__Ohio State__|                             |
+San Diego Stat|                                            |
+______TCU_____                                             |___Virginia___
+              |_____UCLA ____                              |              |
+_____UCLA ____|              |                             |              |
+__Texas Tech__               |__Texas Tech__               |              |
+              |__Texas Tech__|              |              |              |
+__Charleston _|                             |              |              |
+_Rhode Island_                              |__Cincinnati__|              |
+              |_Rhode Island_               |                             |
+___NC State __|              |              |                             |
+__Cincinnati__               |__Cincinnati__|                             |
+              |__Cincinnati__|                                            |
+_Wright State |                                                           |
+___Villanova__                                                            |___Villanova__
+              |___Villanova__                                             |              |
+_____UMBC ____|              |                                            |              |
+___Creighton__               |___Villanova__                              |              |
+              |__Providence__|              |                             |              |
+__Providence__|                             |                             |              |
+____Gonzaga___                              |___Villanova__               |              |
+              |____Gonzaga___               |              |              |              |
+_Murray State |              |              |              |              |              |
+____Clemson___               |____Gonzaga___|              |              |              |
+              |____Clemson___|                             |              |              |
+Loyola-Chicago|                                            |              |              |
+____Houston___                                             |___Villanova__|              |
+              |____Houston___                              |                             |
+St. Bonaventur|              |                             |                             |
+___Michigan___               |____Houston___               |                             |
+              |___Michigan___|              |              |                             |
+___Marshall __|                             |              |                             |
+____Nevada____                              |____Purdue____|                             |
+              |Florida State                |                                            |
+Florida State |              |              |                                            |
+____Purdue____               |____Purdue____|                                            |
+              |____Purdue____|                                                           |
+Stephen F. Aus|                                                                          |___Villanova__
+____Kansas____                                                                           |
+              |____Kansas____                                                            |
+_____Iona ____|              |                                                           |
+_Virginia Tech               |____Kansas____                                             |
+              |_Kansas State_|              |                                            |
+_Kansas State_|                             |                                            |
+_Wichita State                              |____Kansas____                              |
+              |_Wichita State               |              |                             |
+___Buffalo ___|              |              |              |                             |
+_West Virginia               |_West Virginia|              |                             |
+              |_West Virginia|                             |                             |
+New Mexico Sta|                                            |                             |
+_____Miami____                                             |____Kansas____               |
+              |Arizona State                               |              |              |
+Arizona State |              |                             |              |              |
+___Tennessee__               |___Bucknell __               |              |              |
+              |___Bucknell __|              |              |              |              |
+___Bucknell __|                             |              |              |              |
+___Arkansas___                              |___Arkansas___|              |              |
+              |___Arkansas___               |                             |              |
+____Texas ____|              |              |                             |              |
+_____Duke_____               |___Arkansas___|                             |              |
+              |_____Duke_____|                                            |              |
+___Lipscomb __|                                                           |              |
+____Xavier____                                                            |North Carolina|
+              |____Xavier____                                             |
+Cal State Full|              |                                            |
+___Missouri___               |___Missouri___                              |
+              |___Missouri___|              |                             |
+____Butler____|                             |                             |
+____Auburn____                              |UNC-Greensboro               |
+              |UNC-Greensboro               |              |              |
+UNC-Greensboro|              |              |              |              |
+___Kentucky___               |UNC-Greensboro|              |              |
+              |___Davidson __|                             |              |
+___Davidson __|                                            |              |
+____Florida___                                             |North Carolina|
+              |___Syracuse __                              |
+___Syracuse __|              |                             |
+Michigan State               |Michigan State               |
+              |Michigan State|              |              |
+___Montana ___|                             |              |
+___Texas A&M__                              |North Carolina|
+              |___Texas A&M__               |
+___Oklahoma __|              |              |
+North Carolina               |North Carolina|
+              |North Carolina|
+Georgia State |
+
+Ai Number 1: Virginia Seton Hall Arizona Ohio State TCU Charleston  Rhode Island Cincinnati UMBC  Creighton Gonzaga Loyola-Chicago  Houston Michigan Nevada Purdue Kansas Kansas State Wichita State West Virginia Miami Tennessee Arkansas Duke Xavier Butler Auburn Davidson  Syracuse  Montana  Oklahoma  North Carolina Virginia Arizona TCU Cincinnati UMBC  Gonzaga Houston Nevada Kansas State Wichita State Miami Duke Xavier Auburn Syracuse  North Carolina Arizona Cincinnati Gonzaga Nevada Kansas State Duke Auburn North Carolina Cincinnati Nevada Kansas State North Carolina Cincinnati North Carolina Cincinnati 
+Ai Number 2: Virginia Seton Hall Arizona Ohio State TCU Texas Tech NC State  Cincinnati Villanova Creighton Murray State  Clemson Houston Marshall  Nevada Stephen F. Austin  Kansas Virginia Tech Wichita State West Virginia Miami Bucknell  Texas  Duke Xavier Butler Auburn Davidson  Syracuse  Michigan State Oklahoma  North Carolina Virginia Ohio State TCU Cincinnati Villanova Clemson Houston Nevada Kansas Wichita State Miami Duke Xavier Davidson  Michigan State North Carolina Virginia TCU Clemson Houston Kansas Duke Xavier North Carolina TCU Houston Duke North Carolina Houston North Carolina North Carolina 
+Ai Number 3: Virginia Alabama Arizona San Diego State  TCU Charleston  NC State  Cincinnati Villanova Creighton Gonzaga Clemson Houston Michigan Nevada Stephen F. Austin  Kansas Kansas State Buffalo  New Mexico State  Miami Bucknell  Texas  Duke Xavier Butler Auburn Davidson  Florida Michigan State Texas A&M North Carolina Virginia Arizona TCU Cincinnati Villanova Gonzaga Michigan Nevada Kansas New Mexico State  Miami Texas  Xavier Davidson  Michigan State North Carolina Virginia Cincinnati Villanova Nevada Kansas Miami Xavier North Carolina Cincinnati Nevada Kansas Xavier Cincinnati Xavier Xavier 
+Ai Number 4: Virginia Alabama Arizona Ohio State UCLA  Texas Tech Rhode Island Cincinnati Villanova Providence Murray State  Loyola-Chicago  Houston Marshall  Nevada Purdue Kansas Kansas State Wichita State New Mexico State  Arizona State  Tennessee Arkansas Duke Xavier Butler Auburn Kentucky Florida Michigan State Oklahoma  Georgia State  Virginia Ohio State Texas Tech Cincinnati Villanova Murray State  Houston Purdue Kansas New Mexico State  Arizona State  Duke Butler Kentucky Michigan State Georgia State  Virginia Cincinnati Villanova Purdue Kansas Arizona State  Kentucky Michigan State Virginia Villanova Kansas Kentucky Virginia Kansas Kansas 
+Official: Virginia Alabama South Dakota State  Ohio State UCLA  Texas Tech Rhode Island Cincinnati Villanova Providence Gonzaga Clemson Houston Michigan Florida State  Purdue Kansas Kansas State Wichita State West Virginia Arizona State  Bucknell  Arkansas Duke Xavier Missouri UNC-Greensboro  Davidson  Syracuse  Michigan State Texas A&M North Carolina Virginia South Dakota State  Texas Tech Cincinnati Villanova Gonzaga Houston Purdue Kansas West Virginia Bucknell  Arkansas Missouri UNC-Greensboro  Michigan State North Carolina Virginia Cincinnati Villanova Purdue Kansas Arkansas UNC-Greensboro  North Carolina Virginia Villanova Kansas North Carolina Villanova North Carolina Villanova 
+
+Ai Number 1 has 57 points
+Ai Number 2 has 64 points
+Ai Number 3 has 66 points
+Ai Number 4 has 70 points
+Ai Number 4 won the game with 70 points
+Do you want to play again? Press (1) to quit: 1

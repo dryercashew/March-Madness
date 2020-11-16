@@ -1,0 +1,64 @@
+Virginia 1
+Villanova 1
+Kansas 1
+Xavier 1
+North Carolina 2
+Duke 2
+Purdue 2
+Cincinnati 2
+Michigan State 3
+Tennessee 3
+Michigan 3
+Texas Tech 3
+Auburn 4
+Wichita State 4
+Gonzaga 4
+Arizona 4
+Kentucky 5
+West Virginia 5
+Clemson 5
+Ohio State 5
+Florida 6
+Miami 6
+Houston 6
+TCU 6
+Texas A&M 7
+Arkansas 7
+Nevada 7
+Rhode Island 7
+Seton Hall 8
+Creighton 8
+Virginia Tech 8
+Missouri 8
+Butler 9
+Kansas State 9
+Providence 9
+Alabama 9
+NC State 10
+Florida State 10
+Texas 10
+Oklahoma 10
+UCLA 11
+St. Bonaventure 11
+Arizona State 11
+Syracuse 11
+San Diego State 12
+Loyola-Chicago 12
+New Mexico State 12
+Davidson 12
+South Dakota State 13
+Murray State 13
+Buffalo 13
+UNC-Greensboro 13
+Charleston 14
+Marshall 14
+Bucknell 14
+Montana 14
+Wright State 15
+Stephen F. Austin 15
+Lipscomb 15
+Georgia Staet 15
+Cal State Fullerton 16
+Iona 16
+UMBC 16
+Penn 16

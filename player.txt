@@ -1,0 +1,865 @@
+There will be 4 players in total, do you want to play? There are currently 0 players. 
+ If you don't want to play press (1)0
+What is your name: DubDub
+Round 1
+Who will win Virginia(1) or Penn (2) Virginia has a 0.88 of winning: 1
+Who will win Seton Hall(1) or Alabama(2) Seton Hall has a 0.55 of winning: 1
+Who will win Arizona(1) or South Dakota State (2) Arizona has a 0.75 of winning: 1
+Who will win Ohio State(1) or San Diego State (2) Ohio State has a 0.66 of winning: 1
+Who will win TCU(1) or UCLA (2) TCU has a 0.66 of winning: 1
+Who will win Texas Tech(1) or Charleston (2) Texas Tech has a 0.77 of winning: 1
+Who will win Rhode Island(1) or NC State (2) Rhode Island has a 0.55 of winning: 1
+Who will win Cincinnati(1) or Wright State (2) Cincinnati has a 0.87 of winning: 1
+Who will win Villanova(1) or UMBC (2) Villanova has a 0.88 of winning: 1
+Who will win Creighton(1) or Providence(2) Creighton has a 0.55 of winning: 1
+Who will win Gonzaga(1) or Murray State (2) Gonzaga has a 0.75 of winning: 1
+Who will win Clemson(1) or Loyola-Chicago (2) Clemson has a 0.66 of winning: 1
+Who will win Houston(1) or St. Bonaventure (2) Houston has a 0.66 of winning: 1
+Who will win Michigan(1) or Marshall (2) Michigan has a 0.77 of winning: 1
+Who will win Nevada(1) or Florida State (2) Nevada has a 0.55 of winning: 1
+Who will win Purdue(1) or Stephen F. Austin (2) Purdue has a 0.87 of winning: 1
+Who will win Kansas(1) or Iona (2) Kansas has a 0.88 of winning: 1
+Who will win Virginia Tech(1) or Kansas State(2) Virginia Tech has a 0.55 of winning: 1
+Who will win Wichita State(1) or Buffalo (2) Wichita State has a 0.75 of winning: 1
+Who will win West Virginia(1) or New Mexico State (2) West Virginia has a 0.66 of winning: 1
+Who will win Miami(1) or Arizona State (2) Miami has a 0.66 of winning: 1
+Who will win Tennessee(1) or Bucknell (2) Tennessee has a 0.77 of winning: 1
+Who will win Arkansas(1) or Texas (2) Arkansas has a 0.55 of winning: 1
+Who will win Duke(1) or Lipscomb (2) Duke has a 0.87 of winning: 1
+Who will win Xavier(1) or Cal State Fullerton (2) Xavier has a 0.88 of winning: 
+1
+Who will win Missouri(1) or Butler(2) Missouri has a 0.55 of winning: 1
+Who will win Auburn(1) or UNC-Greensboro (2) Auburn has a 0.75 of winning: 1
+Who will win Kentucky(1) or Davidson (2) Kentucky has a 0.66 of winning: 1
+Who will win Florida(1) or Syracuse (2) Florida has a 0.66 of winning: 1
+Who will win Michigan State(1) or Montana (2) Michigan State has a 0.77 of winning: 1
+Who will win Texas A&M(1) or Oklahoma (2) Texas A&M has a 0.55 of winning: 1
+Who will win North Carolina(1) or Georgia State (2) North Carolina has a 0.87 of winning: 1
+___Virginia___
+              |___Virginia___
+_____Penn ____|              |
+__Seton Hall__               |______________
+              |__Seton Hall__|              |
+____Alabama___|                             |
+____Arizona___                              |______________
+              |____Arizona___               |              |
+South Dakota S|              |              |              |
+__Ohio State__               |______________|              |
+              |__Ohio State__|                             |
+San Diego Stat|                                            |
+______TCU_____                                             |______________
+              |______TCU_____                              |              |
+_____UCLA ____|              |                             |              |
+__Texas Tech__               |______________               |              |
+              |__Texas Tech__|              |              |              |
+__Charleston _|                             |              |              |
+_Rhode Island_                              |______________|              |
+              |_Rhode Island_               |                             |
+___NC State __|              |              |                             |
+__Cincinnati__               |______________|                             |
+              |__Cincinnati__|                                            |
+_Wright State |                                                           |
+___Villanova__                                                            |______________
+              |___Villanova__                                             |              |
+_____UMBC ____|              |                                            |              |
+___Creighton__               |______________                              |              |
+              |___Creighton__|              |                             |              |
+__Providence__|                             |                             |              |
+____Gonzaga___                              |______________               |              |
+              |____Gonzaga___               |              |              |              |
+_Murray State |              |              |              |              |              |
+____Clemson___               |______________|              |              |              |
+              |____Clemson___|                             |              |              |
+Loyola-Chicago|                                            |              |              |
+____Houston___                                             |______________|              |
+              |____Houston___                              |                             |
+St. Bonaventur|              |                             |                             |
+___Michigan___               |______________               |                             |
+              |___Michigan___|              |              |                             |
+___Marshall __|                             |              |                             |
+____Nevada____                              |______________|                             |
+              |____Nevada____               |                                            |
+Florida State |              |              |                                            |
+____Purdue____               |______________|                                            |
+              |____Purdue____|                                                           |
+Stephen F. Aus|                                                                          |______________
+____Kansas____                                                                           |
+              |____Kansas____                                                            |
+_____Iona ____|              |                                                           |
+_Virginia Tech               |______________                                             |
+              |_Virginia Tech|              |                                            |
+_Kansas State_|                             |                                            |
+_Wichita State                              |______________                              |
+              |_Wichita State               |              |                             |
+___Buffalo ___|              |              |              |                             |
+_West Virginia               |______________|              |                             |
+              |_West Virginia|                             |                             |
+New Mexico Sta|                                            |                             |
+_____Miami____                                             |______________               |
+              |_____Miami____                              |              |              |
+Arizona State |              |                             |              |              |
+___Tennessee__               |______________               |              |              |
+              |___Tennessee__|              |              |              |              |
+___Bucknell __|                             |              |              |              |
+___Arkansas___                              |______________|              |              |
+              |___Arkansas___               |                             |              |
+____Texas ____|              |              |                             |              |
+_____Duke_____               |______________|                             |              |
+              |_____Duke_____|                                            |              |
+___Lipscomb __|                                                           |              |
+____Xavier____                                                            |______________|
+              |____Xavier____                                             |
+Cal State Full|              |                                            |
+___Missouri___               |______________                              |
+              |___Missouri___|              |                             |
+____Butler____|                             |                             |
+____Auburn____                              |______________               |
+              |____Auburn____               |              |              |
+UNC-Greensboro|              |              |              |              |
+___Kentucky___               |______________|              |              |
+              |___Kentucky___|                             |              |
+___Davidson __|                                            |              |
+____Florida___                                             |______________|
+              |____Florida___                              |
+___Syracuse __|              |                             |
+Michigan State               |______________               |
+              |Michigan State|              |              |
+___Montana ___|                             |              |
+___Texas A&M__                              |______________|
+              |___Texas A&M__               |
+___Oklahoma __|              |              |
+North Carolina               |______________|
+              |North Carolina|
+Georgia State |
+
+Round 2
+Who will win Virginia(1) or Seton Hall(2) Virginia has a 0.8 of winning: 1
+Who will win Arizona(1) or Ohio State(2) Arizona has a 0.6 of winning: 1
+Who will win TCU(1) or Texas Tech(2) TCU has a 0.4 of winning: 1
+Who will win Rhode Island(1) or Cincinnati(2) Rhode Island has a 0.2 of winning: 1
+Who will win Villanova(1) or Creighton(2) Villanova has a 0.8 of winning: 1
+Who will win Gonzaga(1) or Clemson(2) Gonzaga has a 0.6 of winning: 1
+Who will win Houston(1) or Michigan(2) Houston has a 0.4 of winning: 1
+Who will win Nevada(1) or Purdue(2) Nevada has a 0.2 of winning: 1
+Who will win Kansas(1) or Virginia Tech(2) Kansas has a 0.8 of winning: 1
+Who will win Wichita State(1) or West Virginia(2) Wichita State has a 0.6 of winning: 1
+Who will win Miami(1) or Tennessee(2) Miami has a 0.4 of winning: 1
+Who will win Arkansas(1) or Duke(2) Arkansas has a 0.2 of winning: 1
+Who will win Xavier(1) or Missouri(2) Xavier has a 0.8 of winning: 1
+Who will win Auburn(1) or Kentucky(2) Auburn has a 0.6 of winning: 1
+Who will win Florida(1) or Michigan State(2) Florida has a 0.4 of winning: 1
+Who will win Texas A&M(1) or North Carolina(2) Texas A&M has a 0.2 of winning: 1
+___Virginia___
+              |___Virginia___
+_____Penn ____|              |
+__Seton Hall__               |___Virginia___
+              |__Seton Hall__|              |
+____Alabama___|                             |
+____Arizona___                              |______________
+              |____Arizona___               |              |
+South Dakota S|              |              |              |
+__Ohio State__               |____Arizona___|              |
+              |__Ohio State__|                             |
+San Diego Stat|                                            |
+______TCU_____                                             |______________
+              |______TCU_____                              |              |
+_____UCLA ____|              |                             |              |
+__Texas Tech__               |______TCU_____               |              |
+              |__Texas Tech__|              |              |              |
+__Charleston _|                             |              |              |
+_Rhode Island_                              |______________|              |
+              |_Rhode Island_               |                             |
+___NC State __|              |              |                             |
+__Cincinnati__               |_Rhode Island_|                             |
+              |__Cincinnati__|                                            |
+_Wright State |                                                           |
+___Villanova__                                                            |______________
+              |___Villanova__                                             |              |
+_____UMBC ____|              |                                            |              |
+___Creighton__               |___Villanova__                              |              |
+              |___Creighton__|              |                             |              |
+__Providence__|                             |                             |              |
+____Gonzaga___                              |______________               |              |
+              |____Gonzaga___               |              |              |              |
+_Murray State |              |              |              |              |              |
+____Clemson___               |____Gonzaga___|              |              |              |
+              |____Clemson___|                             |              |              |
+Loyola-Chicago|                                            |              |              |
+____Houston___                                             |______________|              |
+              |____Houston___                              |                             |
+St. Bonaventur|              |                             |                             |
+___Michigan___               |____Houston___               |                             |
+              |___Michigan___|              |              |                             |
+___Marshall __|                             |              |                             |
+____Nevada____                              |______________|                             |
+              |____Nevada____               |                                            |
+Florida State |              |              |                                            |
+____Purdue____               |____Nevada____|                                            |
+              |____Purdue____|                                                           |
+Stephen F. Aus|                                                                          |______________
+____Kansas____                                                                           |
+              |____Kansas____                                                            |
+_____Iona ____|              |                                                           |
+_Virginia Tech               |____Kansas____                                             |
+              |_Virginia Tech|              |                                            |
+_Kansas State_|                             |                                            |
+_Wichita State                              |______________                              |
+              |_Wichita State               |              |                             |
+___Buffalo ___|              |              |              |                             |
+_West Virginia               |_Wichita State|              |                             |
+              |_West Virginia|                             |                             |
+New Mexico Sta|                                            |                             |
+_____Miami____                                             |______________               |
+              |_____Miami____                              |              |              |
+Arizona State |              |                             |              |              |
+___Tennessee__               |_____Miami____               |              |              |
+              |___Tennessee__|              |              |              |              |
+___Bucknell __|                             |              |              |              |
+___Arkansas___                              |______________|              |              |
+              |___Arkansas___               |                             |              |
+____Texas ____|              |              |                             |              |
+_____Duke_____               |___Arkansas___|                             |              |
+              |_____Duke_____|                                            |              |
+___Lipscomb __|                                                           |              |
+____Xavier____                                                            |______________|
+              |____Xavier____                                             |
+Cal State Full|              |                                            |
+___Missouri___               |____Xavier____                              |
+              |___Missouri___|              |                             |
+____Butler____|                             |                             |
+____Auburn____                              |______________               |
+              |____Auburn____               |              |              |
+UNC-Greensboro|              |              |              |              |
+___Kentucky___               |____Auburn____|              |              |
+              |___Kentucky___|                             |              |
+___Davidson __|                                            |              |
+____Florida___                                             |______________|
+              |____Florida___                              |
+___Syracuse __|              |                             |
+Michigan State               |____Florida___               |
+              |Michigan State|              |              |
+___Montana ___|                             |              |
+___Texas A&M__                              |______________|
+              |___Texas A&M__               |
+___Oklahoma __|              |              |
+North Carolina               |___Texas A&M__|
+              |North Carolina|
+Georgia State |
+
+Round 3
+Who will win Virginia(1) or Arizona(2) Virginia has a 0.66 of winning: 1
+Who will win TCU(1) or Rhode Island(2) TCU has a 0.57 of winning: 1
+Who will win Villanova(1) or Gonzaga(2) Villanova has a 0.66 of winning: 1
+Who will win Houston(1) or Nevada(2) Houston has a 0.57 of winning: 1
+Who will win Kansas(1) or Wichita State(2) Kansas has a 0.66 of winning: 1
+Who will win Miami(1) or Arkansas(2) Miami has a 0.57 of winning: 1
+Who will win Xavier(1) or Auburn(2) Xavier has a 0.66 of winning: 1
+Who will win Florida(1) or Texas A&M(2) Florida has a 0.57 of winning: 1
+___Virginia___
+              |___Virginia___
+_____Penn ____|              |
+__Seton Hall__               |___Virginia___
+              |__Seton Hall__|              |
+____Alabama___|                             |
+____Arizona___                              |___Virginia___
+              |____Arizona___               |              |
+South Dakota S|              |              |              |
+__Ohio State__               |____Arizona___|              |
+              |__Ohio State__|                             |
+San Diego Stat|                                            |
+______TCU_____                                             |______________
+              |______TCU_____                              |              |
+_____UCLA ____|              |                             |              |
+__Texas Tech__               |______TCU_____               |              |
+              |__Texas Tech__|              |              |              |
+__Charleston _|                             |              |              |
+_Rhode Island_                              |______TCU_____|              |
+              |_Rhode Island_               |                             |
+___NC State __|              |              |                             |
+__Cincinnati__               |_Rhode Island_|                             |
+              |__Cincinnati__|                                            |
+_Wright State |                                                           |
+___Villanova__                                                            |______________
+              |___Villanova__                                             |              |
+_____UMBC ____|              |                                            |              |
+___Creighton__               |___Villanova__                              |              |
+              |___Creighton__|              |                             |              |
+__Providence__|                             |                             |              |
+____Gonzaga___                              |___Villanova__               |              |
+              |____Gonzaga___               |              |              |              |
+_Murray State |              |              |              |              |              |
+____Clemson___               |____Gonzaga___|              |              |              |
+              |____Clemson___|                             |              |              |
+Loyola-Chicago|                                            |              |              |
+____Houston___                                             |______________|              |
+              |____Houston___                              |                             |
+St. Bonaventur|              |                             |                             |
+___Michigan___               |____Houston___               |                             |
+              |___Michigan___|              |              |                             |
+___Marshall __|                             |              |                             |
+____Nevada____                              |____Houston___|                             |
+              |____Nevada____               |                                            |
+Florida State |              |              |                                            |
+____Purdue____               |____Nevada____|                                            |
+              |____Purdue____|                                                           |
+Stephen F. Aus|                                                                          |______________
+____Kansas____                                                                           |
+              |____Kansas____                                                            |
+_____Iona ____|              |                                                           |
+_Virginia Tech               |____Kansas____                                             |
+              |_Virginia Tech|              |                                            |
+_Kansas State_|                             |                                            |
+_Wichita State                              |____Kansas____                              |
+              |_Wichita State               |              |                             |
+___Buffalo ___|              |              |              |                             |
+_West Virginia               |_Wichita State|              |                             |
+              |_West Virginia|                             |                             |
+New Mexico Sta|                                            |                             |
+_____Miami____                                             |______________               |
+              |_____Miami____                              |              |              |
+Arizona State |              |                             |              |              |
+___Tennessee__               |_____Miami____               |              |              |
+              |___Tennessee__|              |              |              |              |
+___Bucknell __|                             |              |              |              |
+___Arkansas___                              |_____Miami____|              |              |
+              |___Arkansas___               |                             |              |
+____Texas ____|              |              |                             |              |
+_____Duke_____               |___Arkansas___|                             |              |
+              |_____Duke_____|                                            |              |
+___Lipscomb __|                                                           |              |
+____Xavier____                                                            |______________|
+              |____Xavier____                                             |
+Cal State Full|              |                                            |
+___Missouri___               |____Xavier____                              |
+              |___Missouri___|              |                             |
+____Butler____|                             |                             |
+____Auburn____                              |____Xavier____               |
+              |____Auburn____               |              |              |
+UNC-Greensboro|              |              |              |              |
+___Kentucky___               |____Auburn____|              |              |
+              |___Kentucky___|                             |              |
+___Davidson __|                                            |              |
+____Florida___                                             |______________|
+              |____Florida___                              |
+___Syracuse __|              |                             |
+Michigan State               |____Florida___               |
+              |Michigan State|              |              |
+___Montana ___|                             |              |
+___Texas A&M__                              |____Florida___|
+              |___Texas A&M__               |
+___Oklahoma __|              |              |
+North Carolina               |___Texas A&M__|
+              |North Carolina|
+Georgia State |
+
+Round 4
+Who will win Virginia(1) or TCU(2) Virginia has a 0.75 of winning: 1
+Who will win Villanova(1) or Houston(2) Villanova has a 0.75 of winning: 1
+Who will win Kansas(1) or Miami(2) Kansas has a 0.75 of winning: 1
+Who will win Xavier(1) or Florida(2) Xavier has a 0.75 of winning: 1
+___Virginia___
+              |___Virginia___
+_____Penn ____|              |
+__Seton Hall__               |___Virginia___
+              |__Seton Hall__|              |
+____Alabama___|                             |
+____Arizona___                              |___Virginia___
+              |____Arizona___               |              |
+South Dakota S|              |              |              |
+__Ohio State__               |____Arizona___|              |
+              |__Ohio State__|                             |
+San Diego Stat|                                            |
+______TCU_____                                             |___Virginia___
+              |______TCU_____                              |              |
+_____UCLA ____|              |                             |              |
+__Texas Tech__               |______TCU_____               |              |
+              |__Texas Tech__|              |              |              |
+__Charleston _|                             |              |              |
+_Rhode Island_                              |______TCU_____|              |
+              |_Rhode Island_               |                             |
+___NC State __|              |              |                             |
+__Cincinnati__               |_Rhode Island_|                             |
+              |__Cincinnati__|                                            |
+_Wright State |                                                           |
+___Villanova__                                                            |______________
+              |___Villanova__                                             |              |
+_____UMBC ____|              |                                            |              |
+___Creighton__               |___Villanova__                              |              |
+              |___Creighton__|              |                             |              |
+__Providence__|                             |                             |              |
+____Gonzaga___                              |___Villanova__               |              |
+              |____Gonzaga___               |              |              |              |
+_Murray State |              |              |              |              |              |
+____Clemson___               |____Gonzaga___|              |              |              |
+              |____Clemson___|                             |              |              |
+Loyola-Chicago|                                            |              |              |
+____Houston___                                             |___Villanova__|              |
+              |____Houston___                              |                             |
+St. Bonaventur|              |                             |                             |
+___Michigan___               |____Houston___               |                             |
+              |___Michigan___|              |              |                             |
+___Marshall __|                             |              |                             |
+____Nevada____                              |____Houston___|                             |
+              |____Nevada____               |                                            |
+Florida State |              |              |                                            |
+____Purdue____               |____Nevada____|                                            |
+              |____Purdue____|                                                           |
+Stephen F. Aus|                                                                          |______________
+____Kansas____                                                                           |
+              |____Kansas____                                                            |
+_____Iona ____|              |                                                           |
+_Virginia Tech               |____Kansas____                                             |
+              |_Virginia Tech|              |                                            |
+_Kansas State_|                             |                                            |
+_Wichita State                              |____Kansas____                              |
+              |_Wichita State               |              |                             |
+___Buffalo ___|              |              |              |                             |
+_West Virginia               |_Wichita State|              |                             |
+              |_West Virginia|                             |                             |
+New Mexico Sta|                                            |                             |
+_____Miami____                                             |____Kansas____               |
+              |_____Miami____                              |              |              |
+Arizona State |              |                             |              |              |
+___Tennessee__               |_____Miami____               |              |              |
+              |___Tennessee__|              |              |              |              |
+___Bucknell __|                             |              |              |              |
+___Arkansas___                              |_____Miami____|              |              |
+              |___Arkansas___               |                             |              |
+____Texas ____|              |              |                             |              |
+_____Duke_____               |___Arkansas___|                             |              |
+              |_____Duke_____|                                            |              |
+___Lipscomb __|                                                           |              |
+____Xavier____                                                            |______________|
+              |____Xavier____                                             |
+Cal State Full|              |                                            |
+___Missouri___               |____Xavier____                              |
+              |___Missouri___|              |                             |
+____Butler____|                             |                             |
+____Auburn____                              |____Xavier____               |
+              |____Auburn____               |              |              |
+UNC-Greensboro|              |              |              |              |
+___Kentucky___               |____Auburn____|              |              |
+              |___Kentucky___|                             |              |
+___Davidson __|                                            |              |
+____Florida___                                             |____Xavier____|
+              |____Florida___                              |
+___Syracuse __|              |                             |
+Michigan State               |____Florida___               |
+              |Michigan State|              |              |
+___Montana ___|                             |              |
+___Texas A&M__                              |____Florida___|
+              |___Texas A&M__               |
+___Oklahoma __|              |              |
+North Carolina               |___Texas A&M__|
+              |North Carolina|
+Georgia State |
+
+Round 5
+Who will win Virginia(1) or Villanova(2) Virginia has a 0.5 of winning: 1
+Who will win Kansas(1) or Xavier(2) Kansas has a 0.5 of winning: 1
+___Virginia___
+              |___Virginia___
+_____Penn ____|              |
+__Seton Hall__               |___Virginia___
+              |__Seton Hall__|              |
+____Alabama___|                             |
+____Arizona___                              |___Virginia___
+              |____Arizona___               |              |
+South Dakota S|              |              |              |
+__Ohio State__               |____Arizona___|              |
+              |__Ohio State__|                             |
+San Diego Stat|                                            |
+______TCU_____                                             |___Virginia___
+              |______TCU_____                              |              |
+_____UCLA ____|              |                             |              |
+__Texas Tech__               |______TCU_____               |              |
+              |__Texas Tech__|              |              |              |
+__Charleston _|                             |              |              |
+_Rhode Island_                              |______TCU_____|              |
+              |_Rhode Island_               |                             |
+___NC State __|              |              |                             |
+__Cincinnati__               |_Rhode Island_|                             |
+              |__Cincinnati__|                                            |
+_Wright State |                                                           |
+___Villanova__                                                            |___Virginia___
+              |___Villanova__                                             |              |
+_____UMBC ____|              |                                            |              |
+___Creighton__               |___Villanova__                              |              |
+              |___Creighton__|              |                             |              |
+__Providence__|                             |                             |              |
+____Gonzaga___                              |___Villanova__               |              |
+              |____Gonzaga___               |              |              |              |
+_Murray State |              |              |              |              |              |
+____Clemson___               |____Gonzaga___|              |              |              |
+              |____Clemson___|                             |              |              |
+Loyola-Chicago|                                            |              |              |
+____Houston___                                             |___Villanova__|              |
+              |____Houston___                              |                             |
+St. Bonaventur|              |                             |                             |
+___Michigan___               |____Houston___               |                             |
+              |___Michigan___|              |              |                             |
+___Marshall __|                             |              |                             |
+____Nevada____                              |____Houston___|                             |
+              |____Nevada____               |                                            |
+Florida State |              |              |                                            |
+____Purdue____               |____Nevada____|                                            |
+              |____Purdue____|                                                           |
+Stephen F. Aus|                                                                          |______________
+____Kansas____                                                                           |
+              |____Kansas____                                                            |
+_____Iona ____|              |                                                           |
+_Virginia Tech               |____Kansas____                                             |
+              |_Virginia Tech|              |                                            |
+_Kansas State_|                             |                                            |
+_Wichita State                              |____Kansas____                              |
+              |_Wichita State               |              |                             |
+___Buffalo ___|              |              |              |                             |
+_West Virginia               |_Wichita State|              |                             |
+              |_West Virginia|                             |                             |
+New Mexico Sta|                                            |                             |
+_____Miami____                                             |____Kansas____               |
+              |_____Miami____                              |              |              |
+Arizona State |              |                             |              |              |
+___Tennessee__               |_____Miami____               |              |              |
+              |___Tennessee__|              |              |              |              |
+___Bucknell __|                             |              |              |              |
+___Arkansas___                              |_____Miami____|              |              |
+              |___Arkansas___               |                             |              |
+____Texas ____|              |              |                             |              |
+_____Duke_____               |___Arkansas___|                             |              |
+              |_____Duke_____|                                            |              |
+___Lipscomb __|                                                           |              |
+____Xavier____                                                            |____Kansas____|
+              |____Xavier____                                             |
+Cal State Full|              |                                            |
+___Missouri___               |____Xavier____                              |
+              |___Missouri___|              |                             |
+____Butler____|                             |                             |
+____Auburn____                              |____Xavier____               |
+              |____Auburn____               |              |              |
+UNC-Greensboro|              |              |              |              |
+___Kentucky___               |____Auburn____|              |              |
+              |___Kentucky___|                             |              |
+___Davidson __|                                            |              |
+____Florida___                                             |____Xavier____|
+              |____Florida___                              |
+___Syracuse __|              |                             |
+Michigan State               |____Florida___               |
+              |Michigan State|              |              |
+___Montana ___|                             |              |
+___Texas A&M__                              |____Florida___|
+              |___Texas A&M__               |
+___Oklahoma __|              |              |
+North Carolina               |___Texas A&M__|
+              |North Carolina|
+Georgia State |
+
+Round 6
+Who will win Virginia(1) or Kansas(2) Virginia has a 0.5 of winning: 1
+___Virginia___
+              |___Virginia___
+_____Penn ____|              |
+__Seton Hall__               |___Virginia___
+              |__Seton Hall__|              |
+____Alabama___|                             |
+____Arizona___                              |___Virginia___
+              |____Arizona___               |              |
+South Dakota S|              |              |              |
+__Ohio State__               |____Arizona___|              |
+              |__Ohio State__|                             |
+San Diego Stat|                                            |
+______TCU_____                                             |___Virginia___
+              |______TCU_____                              |              |
+_____UCLA ____|              |                             |              |
+__Texas Tech__               |______TCU_____               |              |
+              |__Texas Tech__|              |              |              |
+__Charleston _|                             |              |              |
+_Rhode Island_                              |______TCU_____|              |
+              |_Rhode Island_               |                             |
+___NC State __|              |              |                             |
+__Cincinnati__               |_Rhode Island_|                             |
+              |__Cincinnati__|                                            |
+_Wright State |                                                           |
+___Villanova__                                                            |___Virginia___
+              |___Villanova__                                             |              |
+_____UMBC ____|              |                                            |              |
+___Creighton__               |___Villanova__                              |              |
+              |___Creighton__|              |                             |              |
+__Providence__|                             |                             |              |
+____Gonzaga___                              |___Villanova__               |              |
+              |____Gonzaga___               |              |              |              |
+_Murray State |              |              |              |              |              |
+____Clemson___               |____Gonzaga___|              |              |              |
+              |____Clemson___|                             |              |              |
+Loyola-Chicago|                                            |              |              |
+____Houston___                                             |___Villanova__|              |
+              |____Houston___                              |                             |
+St. Bonaventur|              |                             |                             |
+___Michigan___               |____Houston___               |                             |
+              |___Michigan___|              |              |                             |
+___Marshall __|                             |              |                             |
+____Nevada____                              |____Houston___|                             |
+              |____Nevada____               |                                            |
+Florida State |              |              |                                            |
+____Purdue____               |____Nevada____|                                            |
+              |____Purdue____|                                                           |
+Stephen F. Aus|                                                                          |______________
+____Kansas____                                                                           |
+              |____Kansas____                                                            |
+_____Iona ____|              |                                                           |
+_Virginia Tech               |____Kansas____                                             |
+              |_Virginia Tech|              |                                            |
+_Kansas State_|                             |                                            |
+_Wichita State                              |____Kansas____                              |
+              |_Wichita State               |              |                             |
+___Buffalo ___|              |              |              |                             |
+_West Virginia               |_Wichita State|              |                             |
+              |_West Virginia|                             |                             |
+New Mexico Sta|                                            |                             |
+_____Miami____                                             |____Kansas____               |
+              |_____Miami____                              |              |              |
+Arizona State |              |                             |              |              |
+___Tennessee__               |_____Miami____               |              |              |
+              |___Tennessee__|              |              |              |              |
+___Bucknell __|                             |              |              |              |
+___Arkansas___                              |_____Miami____|              |              |
+              |___Arkansas___               |                             |              |
+____Texas ____|              |              |                             |              |
+_____Duke_____               |___Arkansas___|                             |              |
+              |_____Duke_____|                                            |              |
+___Lipscomb __|                                                           |              |
+____Xavier____                                                            |____Kansas____|
+              |____Xavier____                                             |
+Cal State Full|              |                                            |
+___Missouri___               |____Xavier____                              |
+              |___Missouri___|              |                             |
+____Butler____|                             |                             |
+____Auburn____                              |____Xavier____               |
+              |____Auburn____               |              |              |
+UNC-Greensboro|              |              |              |              |
+___Kentucky___               |____Auburn____|              |              |
+              |___Kentucky___|                             |              |
+___Davidson __|                                            |              |
+____Florida___                                             |____Xavier____|
+              |____Florida___                              |
+___Syracuse __|              |                             |
+Michigan State               |____Florida___               |
+              |Michigan State|              |              |
+___Montana ___|                             |              |
+___Texas A&M__                              |____Florida___|
+              |___Texas A&M__               |
+___Oklahoma __|              |              |
+North Carolina               |___Texas A&M__|
+              |North Carolina|
+Georgia State |
+
+___Virginia___
+              |___Virginia___
+_____Penn ____|              |
+__Seton Hall__               |___Virginia___
+              |__Seton Hall__|              |
+____Alabama___|                             |
+____Arizona___                              |___Virginia___
+              |____Arizona___               |              |
+South Dakota S|              |              |              |
+__Ohio State__               |____Arizona___|              |
+              |__Ohio State__|                             |
+San Diego Stat|                                            |
+______TCU_____                                             |___Virginia___
+              |______TCU_____                              |              |
+_____UCLA ____|              |                             |              |
+__Texas Tech__               |______TCU_____               |              |
+              |__Texas Tech__|              |              |              |
+__Charleston _|                             |              |              |
+_Rhode Island_                              |______TCU_____|              |
+              |_Rhode Island_               |                             |
+___NC State __|              |              |                             |
+__Cincinnati__               |_Rhode Island_|                             |
+              |__Cincinnati__|                                            |
+_Wright State |                                                           |
+___Villanova__                                                            |___Virginia___
+              |___Villanova__                                             |              |
+_____UMBC ____|              |                                            |              |
+___Creighton__               |___Villanova__                              |              |
+              |___Creighton__|              |                             |              |
+__Providence__|                             |                             |              |
+____Gonzaga___                              |___Villanova__               |              |
+              |____Gonzaga___               |              |              |              |
+_Murray State |              |              |              |              |              |
+____Clemson___               |____Gonzaga___|              |              |              |
+              |____Clemson___|                             |              |              |
+Loyola-Chicago|                                            |              |              |
+____Houston___                                             |___Villanova__|              |
+              |____Houston___                              |                             |
+St. Bonaventur|              |                             |                             |
+___Michigan___               |____Houston___               |                             |
+              |___Michigan___|              |              |                             |
+___Marshall __|                             |              |                             |
+____Nevada____                              |____Houston___|                             |
+              |____Nevada____               |                                            |
+Florida State |              |              |                                            |
+____Purdue____               |____Nevada____|                                            |
+              |____Purdue____|                                                           |
+Stephen F. Aus|                                                                          |___Virginia___
+____Kansas____                                                                           |
+              |____Kansas____                                                            |
+_____Iona ____|              |                                                           |
+_Virginia Tech               |____Kansas____                                             |
+              |_Virginia Tech|              |                                            |
+_Kansas State_|                             |                                            |
+_Wichita State                              |____Kansas____                              |
+              |_Wichita State               |              |                             |
+___Buffalo ___|              |              |              |                             |
+_West Virginia               |_Wichita State|              |                             |
+              |_West Virginia|                             |                             |
+New Mexico Sta|                                            |                             |
+_____Miami____                                             |____Kansas____               |
+              |_____Miami____                              |              |              |
+Arizona State |              |                             |              |              |
+___Tennessee__               |_____Miami____               |              |              |
+              |___Tennessee__|              |              |              |              |
+___Bucknell __|                             |              |              |              |
+___Arkansas___                              |_____Miami____|              |              |
+              |___Arkansas___               |                             |              |
+____Texas ____|              |              |                             |              |
+_____Duke_____               |___Arkansas___|                             |              |
+              |_____Duke_____|                                            |              |
+___Lipscomb __|                                                           |              |
+____Xavier____                                                            |____Kansas____|
+              |____Xavier____                                             |
+Cal State Full|              |                                            |
+___Missouri___               |____Xavier____                              |
+              |___Missouri___|              |                             |
+____Butler____|                             |                             |
+____Auburn____                              |____Xavier____               |
+              |____Auburn____               |              |              |
+UNC-Greensboro|              |              |              |              |
+___Kentucky___               |____Auburn____|              |              |
+              |___Kentucky___|                             |              |
+___Davidson __|                                            |              |
+____Florida___                                             |____Xavier____|
+              |____Florida___                              |
+___Syracuse __|              |                             |
+Michigan State               |____Florida___               |
+              |Michigan State|              |              |
+___Montana ___|                             |              |
+___Texas A&M__                              |____Florida___|
+              |___Texas A&M__               |
+___Oklahoma __|              |              |
+North Carolina               |___Texas A&M__|
+              |North Carolina|
+Georgia State |
+
+There will be 4 players in total, do you want to play? There are currently 1 players. 
+ If you don't want to play press (1)1
+What difficulty do you want Easy(1), Medium(2) or Hard(3)
+2
+___Virginia___
+              |___Virginia___
+_____Penn ____|              |
+__Seton Hall__               |___Virginia___
+              |____Alabama___|              |
+____Alabama___|                             |
+____Arizona___                              |___Virginia___
+              |____Arizona___               |              |
+South Dakota S|              |              |              |
+__Ohio State__               |____Arizona___|              |
+              |San Diego Stat|                             |
+San Diego Stat|                                            |
+______TCU_____                                             |___Virginia___
+              |_____UCLA ____                              |              |
+_____UCLA ____|              |                             |              |
+__Texas Tech__               |__Texas Tech__               |              |
+              |__Texas Tech__|              |              |              |
+__Charleston _|                             |              |              |
+_Rhode Island_                              |__Texas Tech__|              |
+              |_Rhode Island_               |                             |
+___NC State __|              |              |                             |
+__Cincinnati__               |__Cincinnati__|                             |
+              |__Cincinnati__|                                            |
+_Wright State |                                                           |
+___Villanova__                                                            |____Purdue____
+              |___Villanova__                                             |              |
+_____UMBC ____|              |                                            |              |
+___Creighton__               |___Villanova__                              |              |
+              |___Creighton__|              |                             |              |
+__Providence__|                             |                             |              |
+____Gonzaga___                              |___Villanova__               |              |
+              |____Gonzaga___               |              |              |              |
+_Murray State |              |              |              |              |              |
+____Clemson___               |____Clemson___|              |              |              |
+              |____Clemson___|                             |              |              |
+Loyola-Chicago|                                            |              |              |
+____Houston___                                             |____Purdue____|              |
+              |____Houston___                              |                             |
+St. Bonaventur|              |                             |                             |
+___Michigan___               |____Houston___               |                             |
+              |___Michigan___|              |              |                             |
+___Marshall __|                             |              |                             |
+____Nevada____                              |____Purdue____|                             |
+              |Florida State                |                                            |
+Florida State |              |              |                                            |
+____Purdue____               |____Purdue____|                                            |
+              |____Purdue____|                                                           |
+Stephen F. Aus|                                                                          |____Purdue____
+____Kansas____                                                                           |
+              |____Kansas____                                                            |
+_____Iona ____|              |                                                           |
+_Virginia Tech               |____Kansas____                                             |
+              |_Virginia Tech|              |                                            |
+_Kansas State_|                             |                                            |
+_Wichita State                              |____Kansas____                              |
+              |_Wichita State               |              |                             |
+___Buffalo ___|              |              |              |                             |
+_West Virginia               |_Wichita State|              |                             |
+              |_West Virginia|                             |                             |
+New Mexico Sta|                                            |                             |
+_____Miami____                                             |___Tennessee__               |
+              |Arizona State                               |              |              |
+Arizona State |              |                             |              |              |
+___Tennessee__               |___Tennessee__               |              |              |
+              |___Tennessee__|              |              |              |              |
+___Bucknell __|                             |              |              |              |
+___Arkansas___                              |___Tennessee__|              |              |
+              |___Arkansas___               |                             |              |
+____Texas ____|              |              |                             |              |
+_____Duke_____               |___Arkansas___|                             |              |
+              |___Lipscomb __|                                            |              |
+___Lipscomb __|                                                           |              |
+____Xavier____                                                            |___Tennessee__|
+              |____Xavier____                                             |
+Cal State Full|              |                                            |
+___Missouri___               |____Xavier____                              |
+              |___Missouri___|              |                             |
+____Butler____|                             |                             |
+____Auburn____                              |____Xavier____               |
+              |____Auburn____               |              |              |
+UNC-Greensboro|              |              |              |              |
+___Kentucky___               |____Auburn____|              |              |
+              |___Davidson __|                             |              |
+___Davidson __|                                            |              |
+____Florida___                                             |Michigan State|
+              |____Florida___                              |
+___Syracuse __|              |                             |
+Michigan State               |Michigan State               |
+              |Michigan State|              |              |
+___Montana ___|                             |              |
+___Texas A&M__                              |Michigan State|
+              |___Oklahoma __               |
+___Oklahoma __|              |              |
+North Carolina               |North Carolina|
+              |North Carolina|
+Georgia State |
+
+DubDub: Virginia Seton Hall Arizona Ohio State TCU Texas Tech Rhode Island Cincinnati Villanova Creighton Gonzaga Clemson Houston Michigan Nevada Purdue Kansas Virginia Tech Wichita State West Virginia Miami Tennessee Arkansas Duke Xavier Missouri Auburn Kentucky Florida Michigan State Texas A&M North Carolina Virginia Arizona TCU Rhode Island Villanova Gonzaga Houston Nevada Kansas Wichita State Miami Arkansas Xavier Auburn Florida Texas A&M Virginia TCU Villanova Houston Kansas Miami Xavier Florida Virginia Villanova Kansas Xavier Virginia Kansas Virginia 
+Ai Number 1: Virginia Seton Hall Arizona San Diego State  TCU Texas Tech Rhode Island Cincinnati Villanova Creighton Gonzaga Clemson Houston Michigan Nevada Purdue Kansas Kansas State Wichita State West Virginia Miami Tennessee Texas  Duke Xavier Missouri Auburn Kentucky Florida Michigan State Oklahoma  North Carolina Virginia Arizona TCU Cincinnati Villanova Gonzaga Houston Purdue Kansas State West Virginia Miami Duke Missouri Auburn Michigan State North Carolina Virginia Cincinnati Villanova Purdue West Virginia Duke Auburn North Carolina Virginia Purdue Duke Auburn Virginia Auburn Virginia 
+Ai Number 2: Virginia Alabama Arizona Ohio State TCU Texas Tech NC State  Cincinnati Villanova Creighton Gonzaga Clemson St. Bonaventure  Marshall  Florida State  Purdue Kansas Kansas State Buffalo  New Mexico State  Arizona State  Tennessee Texas  Lipscomb  Xavier Missouri Auburn Kentucky Syracuse  Michigan State Texas A&M North Carolina Virginia Ohio State Texas Tech Cincinnati Villanova Gonzaga Marshall  Purdue Kansas Buffalo  Arizona State  Texas  Xavier Auburn Syracuse  North Carolina Virginia Texas Tech Villanova Marshall  Kansas Texas  Xavier North Carolina Virginia Villanova Kansas Xavier Villanova Kansas Villanova 
+Ai Number 3: Virginia Seton Hall Arizona Ohio State TCU Texas Tech NC State  Cincinnati Villanova Creighton Gonzaga Clemson Houston Michigan Florida State  Stephen F. Austin  Kansas Kansas State Wichita State West Virginia Miami Bucknell  Arkansas Duke Xavier Missouri Auburn Davidson  Florida Michigan State Texas A&M North Carolina Virginia Arizona TCU NC State  Villanova Clemson Michigan Florida State  Kansas State Wichita State Miami Duke Xavier Auburn Michigan State North Carolina Arizona TCU Villanova Michigan Wichita State Miami Xavier Michigan State Arizona Villanova Wichita State Xavier Villanova Wichita State Wichita State 
+Official: Virginia Alabama Arizona San Diego State  UCLA  Texas Tech Rhode Island Cincinnati Villanova Creighton Gonzaga Clemson Houston Michigan Florida State  Purdue Kansas Virginia Tech Wichita State West Virginia Arizona State  Tennessee Arkansas Lipscomb  Xavier Missouri Auburn Davidson  Florida Michigan State Oklahoma  North Carolina Virginia Arizona Texas Tech Cincinnati Villanova Clemson Houston Purdue Kansas Wichita State Tennessee Arkansas Xavier Auburn Michigan State North Carolina Virginia Texas Tech Villanova Purdue Kansas Tennessee Xavier Michigan State Virginia Purdue Tennessee Michigan State Purdue Tennessee Purdue 
+
+DubDub has 76 points
+Ai Number 1 has 79 points
+Ai Number 2 has 73 points
+Ai Number 3 has 71 points
+Ai Number 1 won the game with 79 points
+Do you want to play again? Press (1) to quit: 
